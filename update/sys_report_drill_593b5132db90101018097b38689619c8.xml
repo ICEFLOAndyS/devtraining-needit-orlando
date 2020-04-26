@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_drill">
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_report_drill">
     <sys_report_drill action="INSERT_OR_UPDATE">
         <additional_groupby/>
         <aggregate>COUNT</aggregate>
@@ -101,6 +101,8 @@
         <sys_class_name>sys_report_drill</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-04-24 13:07:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>593b5132db90101018097b38689619c8</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Monthly Active Requests by Requested for</sys_name>
